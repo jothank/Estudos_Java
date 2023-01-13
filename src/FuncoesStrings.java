@@ -20,8 +20,8 @@ public class FuncoesStrings {
         System.out.println("substring(2): -" + s04 + "-");
         System.out.println("substring(2,9): -" + s05 + "-");
         System.out.println("replace('a','x'): -" + s06 + "-");
-        System.out.println("Index Of 'bc' : " + i );
-        System.out.println("Last Index Of 'bc' : " + j );
+        System.out.println("Index Of 'bc' : " + i);
+        System.out.println("Last Index Of 'bc' : " + j);
 
 
     }
