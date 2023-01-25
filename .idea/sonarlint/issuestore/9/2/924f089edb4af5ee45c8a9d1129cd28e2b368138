@@ -1,0 +1,15 @@
+
+W
+java:S1612
+"AReplace this lambda with method reference 'Integer::doubleValue'.(ìÌİù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+V
+java:S1612";Replace this lambda with method reference 'dois::multiply'.(Å¡„ùÿÿÿÿ
+Z
+java:S1612"DReplace this lambda with method reference 'BigDecimal::doubleValue'.(“áÄâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ³‘å
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ûí–Öıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ûí–Öıÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ûí–Öıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ûí–Öıÿÿÿÿ
