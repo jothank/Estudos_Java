@@ -21,9 +21,9 @@ public class Produtos {
     @Override
     public String toString() {
         return "Produto " +
-                "nome = '" + nome + '\'' +
-                ", valor = R$" + String.format("%.2f", valor) +
-                ", quantidade = " + quantidade +
-                " Total em estoque = R$" + String.format("%.2f", totalValorEmEstoque());
+                "nome =" + nome +
+                ", valor =R$" + String.format("%.2f", valor) +
+                ", quantidade =" + quantidade +
+                ", Total em estoque =R$" + String.format("%.2f", totalValorEmEstoque());
     }
 }

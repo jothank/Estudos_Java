@@ -20,6 +20,23 @@ public class Program {
         System.out.println("Quantidade do Produto: ");
         produtos.quantidade = sc.nextInt();
 
+        System.out.println();
+        System.out.println(produtos);
+
+        System.out.println();
+        System.out.println("Entre com a quantidade de produtos para adicionar: ");
+        int quantidade = sc.nextInt();
+        produtos.adicionarProduto(quantidade);
+
+        System.out.println();
+        System.out.println(produtos);
+
+        System.out.println();
+        System.out.println("Entre com a quantidade de produtos para remover: ");
+        int remocao = sc.nextInt();
+        produtos.removeProduto(remocao);
+
+        System.out.println();
         System.out.println(produtos);
 
         sc.close();
