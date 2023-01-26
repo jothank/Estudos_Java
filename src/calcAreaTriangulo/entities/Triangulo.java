@@ -1,4 +1,4 @@
-package entities;
+package calcAreaTriangulo.entities;
 
 public class Triangulo {
     public double a;

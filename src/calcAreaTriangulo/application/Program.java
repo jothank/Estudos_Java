@@ -1,6 +1,6 @@
-package application;
+package calcAreaTriangulo.application;
 
-import entities.Triangulo;
+import calcAreaTriangulo.entities.Triangulo;
 
 import java.util.Scanner;
 
